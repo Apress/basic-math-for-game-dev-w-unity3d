@@ -1,0 +1,224 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>System.Numerics</name>
+	</assembly>
+	<members>
+		<member name="T:System.Numerics.Matrix4x4">
+			<summary>A standard 4x4 transformation matrix.</summary>
+		</member>
+		<member name="T:System.Numerics.Quaternion">
+			<summary>Quaternions are used to represent rotations.</summary>
+		</member>
+		<member name="P:System.Numerics.Matrix4x4.Identity">
+			<summary>Returns the identity matrix (Read Only).</summary>
+		</member>
+		<member name="T:System.Numerics.Vector3">
+			<summary>Representation of 3D vectors and points.</summary>
+		</member>
+		<member name="T:System.Numerics.Vector2">
+			<summary>Representation of 2D vectors and points.</summary>
+		</member>
+		<member name="P:System.Numerics.Matrix4x4.IsIdentity">
+			<summary>Is this the identity matrix?</summary>
+		</member>
+		<member name="T:System.Numerics.Vector4">
+			<summary>Representation of four-dimensional vectors.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector2.X">
+			<summary>X component of the vector.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector4.W">
+			<summary>W component of the vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Matrix4x4.ToString()">
+			<summary>Returns a nicely formatted string for this matrix.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector2.Y">
+			<summary>Y component of the vector.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector4.X">
+			<summary>X component of the vector.</summary>
+		</member>
+		<member name="T:System.Numerics.Plane">
+			<summary>Representation of a plane in 3D space.</summary>
+		</member>
+		<member name="P:System.Numerics.Vector2.One">
+			<summary>Shorthand for writing Vector2(1, 1).</summary>
+		</member>
+		<member name="F:System.Numerics.Vector4.Y">
+			<summary>Y component of the vector.</summary>
+		</member>
+		<member name="F:System.Numerics.Plane.Normal">
+			<summary>Normal vector of the plane.</summary>
+		</member>
+		<member name="P:System.Numerics.Vector2.Zero">
+			<summary>Shorthand for writing Vector2(0, 0).</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Distance(System.Numerics.Vector2,System.Numerics.Vector2)">
+			<summary>Returns the distance between a and b.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector4.Z">
+			<summary>Z component of the vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Dot(System.Numerics.Vector2,System.Numerics.Vector2)">
+			<summary>Dot Product of two vectors.</summary>
+		</member>
+		<member name="P:System.Numerics.Vector4.One">
+			<summary>Shorthand for writing Vector4(1,1,1,1).</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Equals(System.Numerics.Vector2)">
+			<summary>Returns true if the given vector is exactly equal to this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Equals(System.Object)">
+			<summary>Returns true if the given vector is exactly equal to this vector.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector3.X">
+			<summary>X component of the vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Lerp(System.Numerics.Vector2,System.Numerics.Vector2,System.Single)">
+			<summary>Linearly interpolates between vectors a and b by t.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector3.Y">
+			<summary>Y component of the vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Max(System.Numerics.Vector2,System.Numerics.Vector2)">
+			<summary>Returns a vector that is made from the largest components of two vectors.</summary>
+		</member>
+		<member name="F:System.Numerics.Vector3.Z">
+			<summary>Z component of the vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Min(System.Numerics.Vector2,System.Numerics.Vector2)">
+			<summary>Returns a vector that is made from the smallest components of two vectors.</summary>
+		</member>
+		<member name="P:System.Numerics.Vector3.One">
+			<summary>Shorthand for writing Vector3(1, 1, 1).</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Normalize(System.Numerics.Vector2)">
+			<summary>Makes this vector have a magnitude of 1.</summary>
+		</member>
+		<member name="P:System.Numerics.Vector3.Zero">
+			<summary>Shorthand for writing Vector3(0, 0, 0).</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.Reflect(System.Numerics.Vector2,System.Numerics.Vector2)">
+			<summary>Reflects a vector off the vector defined by a normal.</summary>
+		</member>
+		<member name="F:System.Numerics.Quaternion.W">
+			<summary>W component of the Quaternion. Don't modify this directly unless you know quaternions inside out.</summary>
+		</member>
+		<member name="P:System.Numerics.Vector4.Zero">
+			<summary>Shorthand for writing Vector4(0,0,0,0).</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Cross(System.Numerics.Vector3,System.Numerics.Vector3)">
+			<summary>Cross Product of two vectors.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.ToString()">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.ToString(System.String)">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Distance(System.Numerics.Vector4,System.Numerics.Vector4)">
+			<summary>Returns the distance between a and b.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector2.ToString(System.String,System.IFormatProvider)">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Distance(System.Numerics.Vector3,System.Numerics.Vector3)">
+			<summary>Returns the distance between a and b.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Dot(System.Numerics.Vector4,System.Numerics.Vector4)">
+			<summary>Dot Product of two vectors.</summary>
+		</member>
+		<member name="F:System.Numerics.Quaternion.X">
+			<summary>X component of the Quaternion. Don't modify this directly unless you know quaternions inside out.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Dot(System.Numerics.Vector3,System.Numerics.Vector3)">
+			<summary>Dot Product of two vectors.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Equals(System.Numerics.Vector4)">
+			<summary>Returns true if the given vector is exactly equal to this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Equals(System.Object)">
+			<summary>Returns true if the given vector is exactly equal to this vector.</summary>
+		</member>
+		<member name="F:System.Numerics.Quaternion.Y">
+			<summary>Y component of the Quaternion. Don't modify this directly unless you know quaternions inside out.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Equals(System.Numerics.Vector3)">
+			<summary>Returns true if the given vector is exactly equal to this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Equals(System.Object)">
+			<summary>Returns true if the given vector is exactly equal to this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Lerp(System.Numerics.Vector4,System.Numerics.Vector4,System.Single)">
+			<summary>Linearly interpolates between two vectors.</summary>
+		</member>
+		<member name="F:System.Numerics.Quaternion.Z">
+			<summary>Z component of the Quaternion. Don't modify this directly unless you know quaternions inside out.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Lerp(System.Numerics.Vector3,System.Numerics.Vector3,System.Single)">
+			<summary>Linearly interpolates between two vectors.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Max(System.Numerics.Vector4,System.Numerics.Vector4)">
+			<summary>Returns a vector that is made from the largest components of two vectors.</summary>
+		</member>
+		<member name="P:System.Numerics.Quaternion.Identity">
+			<summary>The identity rotation (Read Only).</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Max(System.Numerics.Vector3,System.Numerics.Vector3)">
+			<summary>Returns a vector that is made from the largest components of two vectors.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Min(System.Numerics.Vector4,System.Numerics.Vector4)">
+			<summary>Returns a vector that is made from the smallest components of two vectors.</summary>
+		</member>
+		<member name="M:System.Numerics.Quaternion.Dot(System.Numerics.Quaternion,System.Numerics.Quaternion)">
+			<summary>The dot product between two rotations.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Min(System.Numerics.Vector3,System.Numerics.Vector3)">
+			<summary>Returns a vector that is made from the smallest components of two vectors.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.Normalize(System.Numerics.Vector4)">
+			<summary>Makes this vector have a magnitude of 1.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Normalize(System.Numerics.Vector3)">
+			<summary>Makes this vector have a magnitude of 1.</summary>
+		</member>
+		<member name="M:System.Numerics.Quaternion.Inverse(System.Numerics.Quaternion)">
+			<summary>Returns the Inverse of rotation.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.ToString()">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.ToString(System.String)">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector4.ToString(System.String,System.IFormatProvider)">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.Reflect(System.Numerics.Vector3,System.Numerics.Vector3)">
+			<summary>Reflects a vector off the plane defined by a normal.</summary>
+		</member>
+		<member name="M:System.Numerics.Quaternion.Lerp(System.Numerics.Quaternion,System.Numerics.Quaternion,System.Single)">
+			<summary>Interpolates between a and b by t and normalizes the result afterwards. The parameter t is clamped to the range [0, 1].</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.ToString()">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.ToString(System.String)">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Vector3.ToString(System.String,System.IFormatProvider)">
+			<summary>Returns a nicely formatted string for this vector.</summary>
+		</member>
+		<member name="M:System.Numerics.Quaternion.Normalize(System.Numerics.Quaternion)">
+			<summary>Converts this quaternion to one with the same orientation but with a magnitude of 1.</summary>
+		</member>
+		<member name="M:System.Numerics.Quaternion.Slerp(System.Numerics.Quaternion,System.Numerics.Quaternion,System.Single)">
+			<summary>Spherically interpolates between a and b by t. The parameter t is clamped to the range [0, 1].</summary>
+		</member>
+		<member name="M:System.Numerics.Quaternion.ToString()">
+			<summary>Returns a nicely formatted string of the Quaternion.</summary>
+		</member>
+	</members>
+</doc>

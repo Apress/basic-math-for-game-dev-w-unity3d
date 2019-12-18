@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: e9d96ffec57c82c4face56ee1063eb87
+timeCreated: 1528342973
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: brake
+    100002: Car2
+    100004: CarBus
+    100006: //RootNode
+    100008: CarPolice
+    100010: CarSuv
+    100012: CarTaxi
+    100014: CarTaxiB
+    100016: CarTruck
+    100018: CarWag
+    100020: TrafficC1
+    100022: TrafficCV
+    100024: Trail
+    100026: WB1
+    100028: WB2
+    100030: Wcar1
+    100032: WP002
+    100034: WP003
+    100036: WP1
+    100038: WS1
+    100040: WT1
+    100042: Wt2
+    100044: Wtaxi
+    100046: Wvan
+    100048: WW1
+    100050: TrafficW1
+    100052: TrafficWV
+    100054: Trailer
+    100056: WW002
+    100058: WC2
+    100060: WT
+    100062: WTB
+    400000: brake
+    400002: Car2
+    400004: CarBus
+    400006: //RootNode
+    400008: CarPolice
+    400010: CarSuv
+    400012: CarTaxi
+    400014: CarTaxiB
+    400016: CarTruck
+    400018: CarWag
+    400020: TrafficC1
+    400022: TrafficCV
+    400024: Trail
+    400026: WB1
+    400028: WB2
+    400030: Wcar1
+    400032: WP002
+    400034: WP003
+    400036: WP1
+    400038: WS1
+    400040: WT1
+    400042: Wt2
+    400044: Wtaxi
+    400046: Wvan
+    400048: WW1
+    400050: TrafficW1
+    400052: TrafficWV
+    400054: Trailer
+    400056: WW002
+    400058: WC2
+    400060: WT
+    400062: WTB
+    2300000: brake
+    2300002: Car2
+    2300004: CarBus
+    2300006: CarPolice
+    2300008: CarSuv
+    2300010: CarTaxi
+    2300012: CarTaxiB
+    2300014: CarTruck
+    2300016: CarWag
+    2300018: TrafficC1
+    2300020: TrafficCV
+    2300022: Trail
+    2300024: WB1
+    2300026: WB2
+    2300028: Wcar1
+    2300030: WP002
+    2300032: WP003
+    2300034: WP1
+    2300036: WS1
+    2300038: WT1
+    2300040: Wt2
+    2300042: Wtaxi
+    2300044: Wvan
+    2300046: WW1
+    2300048: TrafficW1
+    2300050: TrafficWV
+    2300052: Trailer
+    2300054: WW002
+    2300056: WC2
+    2300058: WT
+    2300060: WTB
+    3300000: brake
+    3300002: Car2
+    3300004: CarBus
+    3300006: CarPolice
+    3300008: CarSuv
+    3300010: CarTaxi
+    3300012: CarTaxiB
+    3300014: CarTruck
+    3300016: CarWag
+    3300018: TrafficC1
+    3300020: TrafficCV
+    3300022: Trail
+    3300024: WB1
+    3300026: WB2
+    3300028: Wcar1
+    3300030: WP002
+    3300032: WP003
+    3300034: WP1
+    3300036: WS1
+    3300038: WT1
+    3300040: Wt2
+    3300042: Wtaxi
+    3300044: Wvan
+    3300046: WW1
+    3300048: TrafficW1
+    3300050: TrafficWV
+    3300052: Trailer
+    3300054: WW002
+    3300056: WC2
+    3300058: WT
+    3300060: WTB
+    4300000: TrafficCV
+    4300002: TrafficC1
+    4300004: CarTruck
+    4300006: WT1
+    4300008: Wt2
+    4300010: CarWag
+    4300012: WW1
+    4300014: Wtaxi
+    4300016: CarPolice
+    4300018: WP1
+    4300020: CarSuv
+    4300022: CarBus
+    4300024: WB1
+    4300026: WB2
+    4300028: CarTaxi
+    4300030: Trail
+    4300032: Wvan
+    4300034: Wcar1
+    4300036: Car2
+    4300038: WP002
+    4300040: CarTaxiB
+    4300042: WP003
+    4300044: brake
+    4300046: WS1
+    4300048: TrafficWV
+    4300050: TrafficW1
+    4300052: WW002
+    4300054: Trailer
+    4300056: WT
+    4300058: WC2
+    4300060: WTB
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/EX_5_1_AngleBetweenVectors.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
