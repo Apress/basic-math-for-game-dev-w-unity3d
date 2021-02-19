@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/EX_7_1_FinalComprehensiveExample.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/EX_3_1_PositionsAndDistances.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
